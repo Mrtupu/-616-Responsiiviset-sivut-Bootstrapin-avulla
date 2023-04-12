@@ -1,0 +1,10 @@
+
+table,tr,td {
+    
+    border: 0.01rem solid black;
+}
+
+body,html {
+    overflow-x:hidden;
+}
+
